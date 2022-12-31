@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NifMerge.App", "NifMerge.App\NifMerge.App.csproj", "{33911E48-501D-44A9-8F89-286EE9D4FF21}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NifMergeLib", "NifMergeLib\NifMergeLib.vcxproj", "{AAEE71D0-58B6-4367-9319-0272D419EA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33911E48-501D-44A9-8F89-286EE9D4FF21}.Debug|x64.ActiveCfg = Debug|x64
+		{33911E48-501D-44A9-8F89-286EE9D4FF21}.Debug|x64.Build.0 = Debug|x64
+		{33911E48-501D-44A9-8F89-286EE9D4FF21}.Release|x64.ActiveCfg = Release|x64
+		{33911E48-501D-44A9-8F89-286EE9D4FF21}.Release|x64.Build.0 = Release|x64
+		{AAEE71D0-58B6-4367-9319-0272D419EA5E}.Debug|x64.ActiveCfg = Debug|x64
+		{AAEE71D0-58B6-4367-9319-0272D419EA5E}.Debug|x64.Build.0 = Debug|x64
+		{AAEE71D0-58B6-4367-9319-0272D419EA5E}.Release|x64.ActiveCfg = Release|x64
+		{AAEE71D0-58B6-4367-9319-0272D419EA5E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD354808-1A15-4378-BE18-0E26EF1E8E92}
+	EndGlobalSection
+EndGlobal
